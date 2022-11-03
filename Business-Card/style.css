@@ -1,0 +1,104 @@
+img {
+  height: 400px;
+  width: 500px;
+}
+/* centering the image */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+/* header edits */
+h1{
+  color: #FFFFFF;
+  font-size: 36px;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+h4{
+  color: #ffffff;
+  font-size: 14px;
+  font-family: Georgia, serif;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+header {
+  background: #324A5F;
+}
+/* main edits */
+main {
+  background: #CCC9DC;
+}
+
+h2{
+  color: #000000;
+  font-family: Georgia, serif;
+  font-size: 24px;
+  text-align: center;
+}
+
+h3{
+  color: #000000;
+  font-family: Georgia, serif;
+  font-size: 18px;
+}
+/* adds padding between the About Me paragpragh and the fun facts */
+.space{
+  padding-bottom: 20px;
+}
+
+p{
+  font-family: Lota, Georgia, serif;
+  font-size: 14px;
+}
+/* creates margins for all text*/
+div{
+  margin-left: 32%;
+  margin-right: 32%;
+}
+
+hr{
+  margin-top: 8%;
+  margin-bottom: 8%;
+  border: 2px solid #1B2A41;
+}
+/* spacing in the list items */
+li{
+  padding: 5px;
+}
+
+ul{
+  font-family: Lota, Georgia, serif;
+  font-size: 14px;
+}
+/* spacing at the bottom of the ordered list */
+ol{
+  padding-bottom: 50px;
+}
+/* styling for links */
+a {
+  font-family: Lora, Georgia, serif;
+  font-size: 16px;
+}
+
+a:link    {color: #000000; 
+           text-decoration: none;}
+a:visited {color: #1B2A41;}
+a:hover   {color: #FFFFFF;}
+a:active  {color: #0C1821;}
+/* footer edits */
+footer{
+  background: #324A5F;
+  font-size: 10px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+/* color of text for the footer*/
+.footer-text{
+  color: #ffffff;
+}
